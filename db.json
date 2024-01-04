@@ -27,37 +27,6 @@
   ],
   "category": [
     {
-      "id": "1",
-      "name": "abc"
-    },
-    {
-      "id": "2",
-      "name": "suhail"
-    },
-    {
-      "name": "suhailmuhammed8547@gmail.com",
-      "id": "Yzdx-oL"
-    },
-    {
-      "name": "123",
-      "video": [],
-      "id": "dL-VINq"
-    },
-    {
-      "category": {
-        "category": "suhail"
-      },
-      "allVideos": [],
-      "id": "xNGFAHq"
-    },
-    {
-      "category": {
-        "category": "011"
-      },
-      "allVideos": [],
-      "id": "vvd2tOZ"
-    },
-    {
       "categoryName": "Car Videos",
       "allVideos": [
         {
